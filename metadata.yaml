@@ -1,0 +1,37 @@
+_repo: Portugal-perante-a-revolu--o-de-Hespanha--13-Considera--es-sobre-o-futuro-da-politica-portugu__32873
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - Tarquino do Quental, Anthero
+    - Tarquinio de Quental, Anthero
+    - Quental, Anthero de
+    - De Quental, Antero
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32873'
+  lccn: '38022779'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Portugal -- Politics and government'
+- !lcsh 'Spain -- Politics and government -- 1868-1875'
+title: "Portugal perante a revolução de Hespanha\r\nConsiderações sobre o futuro da\
+  \ politica portugueza no ponto de vista da democracia iberica"
+url: http://www.gutenberg.org/ebooks/32873
